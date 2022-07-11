@@ -4,7 +4,7 @@
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| William Dong | Santa Teresa High School | Design | Incoming Senior
+| William| Santa Teresa High School | Design | Incoming Senior
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
