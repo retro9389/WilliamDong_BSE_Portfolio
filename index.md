@@ -1,5 +1,4 @@
 ﻿Laser Turret
-Laser turret shoots lasers
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
