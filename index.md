@@ -1,4 +1,4 @@
-[![laser turret]
+# Laser Turret
  
  turret that shoots lasers
 
