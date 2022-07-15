@@ -8,6 +8,8 @@ An automatated turret that shoots lasers. Can be used for cats and is made with 
 
 ![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
   
+  
+  
 # Final Milestone
 My final milestone was getting everything connected. I put the laser in a tube so it wouldn't fall apart, glued the servos atop a can for elevation, and revised the code. Issues I ran into while doing the project was getting everything to stick. At first, I used many layers of tape to get the servos and lasers attached. However, this proved to be pretty useless because the tape wasn't strong enough to hold everything together. I overcame this by using hot glue, which was much more sufficent and attached everything pretty quickly. It was also relatively easy to remove as long as it wasn't totally dry and wet. Another challenge was that the pen kept hitting the table because tof the specific rotations it had to perform. I solved this by adding some elevation to the design (canned quail eggs). This allowed it to do its full rotation without interruptions
 
