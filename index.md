@@ -1,6 +1,6 @@
 # Laser Turret
  
- turret that shoots lasers
+An automatated turret that shoots lasers. Can be used for cats and is made with the arduino uno, breadboard, laser pointer, and 2 micro servos.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -20,7 +20,7 @@ My second milestone was getting both of the servos plus the laser to work. The s
 # First Milestone
   
 
-My first milestone was to get the servo to start working. This was an extremely daunting task as I had barely any experience. I had to watch youtube videos and look at different websites in order to find out what to do. I followed a schematic and copied some code and the servo finally started working. 
+My first milestone was to get the servo to start working. This was an extremely daunting task as I had barely any experience. I had to watch youtube videos and look at different websites in order to find out what to do. I followed a schematic and copied some code and the servo finally started working. The next steps for this project is probably getting both of the servos working as well as the laser to work.
 
 [![milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1657552156/video_to_markdown/images/youtube--6a0MWJREZKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=6a0MWJREZKs&feature=youtu.be "milestone 1"){:target="_blank" rel="noopener"}
 
